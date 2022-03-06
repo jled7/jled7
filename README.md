@@ -82,9 +82,9 @@
 
 <br/>  
 
-## Github Stats  
+## Github Stats
 <div align="center">
-<img src="https://github-readme-stats-ochre-seven-11.vercel.app/api?username=jled7&count_private=true&include_all_commits=true" align="center" height="" width="" /><img src="https://github-readme-stats-ochre-seven-11.vercel.app/api/top-langs?username=jled7&layout=compact&langs_count=10" align="center" height="" width="" />
+<img src="https://github-readme-stats-ochre-seven-11.vercel.app/api?username=jled7&count_private=true&include_all_commits=true&hide_border=true" align="center" height="" width="" /><img src="https://github-readme-stats-ochre-seven-11.vercel.app/api/top-langs?username=jled7&layout=compact&langs_count=10&hide_border=true" align="center" height="" width="" />
 </div>  
  
 <br/>  
