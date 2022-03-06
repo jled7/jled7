@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Jon 🤗. 
 
-#### Software Engineer with 10+ years of experience in development and troubleshooting 🕵🏻‍♂. Curious by nature and enthusiastic about everything that has to do with Technology 👨‍💻. Surrounded by computers since i was 5 years old 👶 with my Amstrad 386 running Windows 3.1 and MS-DOS. I was introduced to programming when i was 11 years old and i haven't stopped since. Working remotely since 2020 🚀
+Software Engineer with 10+ years of experience in development and troubleshooting 🕵🏻‍♂. Curious by nature and enthusiastic about everything that has to do with Technology 👨‍💻. Surrounded by computers since i was 5 years old 👶 with my Amstrad 386 running Windows 3.1 and MS-DOS. I was introduced to programming when i was 11 years old and i haven't stopped since. Working remotely since 2020 🚀
 
-<br/>  
 
 - 🔭 I’m currently working on Schrott24
 - 🌱 I’m currently learning about DDD
