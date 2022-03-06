@@ -87,10 +87,7 @@ Software Engineer with 10+ years of experience in development and troubleshootin
 <div align="center">
 <img src="https://github-readme-stats-ochre-seven-11.vercel.app/api?username=jled7&count_private=true&include_all_commits=true&hide_border=true" align="top" height="" width="" /><img src="https://github-readme-stats-ochre-seven-11.vercel.app/api/top-langs?username=jled7&layout=compact&langs_count=10&hide_border=true"  align="top" height="" width="" />
 </div>  
- 
-<br/>  
-
-## Connect with me  
+<br/>   
 <div align="center">
 <a href="https://github.com/jled7" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
